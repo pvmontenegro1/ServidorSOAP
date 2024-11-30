@@ -1,0 +1,7 @@
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\bin\Debug\ClienteLibroConsole.exe.config
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\bin\Debug\ClienteLibroConsole.exe
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\bin\Debug\ClienteLibroConsole.pdb
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\obj\Debug\ClienteLibroConsole.csproj.AssemblyReference.cache
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\obj\Debug\ClienteLibroConsole.csproj.CoreCompileInputs.cache
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\obj\Debug\ClienteLibroConsole.exe
+C:\Users\PamelaMontenegro\source\repos\ClienteLibroConsole\obj\Debug\ClienteLibroConsole.pdb

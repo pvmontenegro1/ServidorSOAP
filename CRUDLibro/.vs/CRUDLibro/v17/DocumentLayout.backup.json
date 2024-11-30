@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE0304D-3B62-4610-88E3-AC9181CD946A}|CRUDLibro.csproj|c:\\users\\pamelamontenegro\\source\\repos\\crudlibro\\libroservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE0304D-3B62-4610-88E3-AC9181CD946A}|CRUDLibro.csproj|solutionrelative:libroservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE0304D-3B62-4610-88E3-AC9181CD946A}|CRUDLibro.csproj|C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE0304D-3B62-4610-88E3-AC9181CD946A}|CRUDLibro.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE0304D-3B62-4610-88E3-AC9181CD946A}|CRUDLibro.csproj|C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CFE0304D-3B62-4610-88E3-AC9181CD946A}|CRUDLibro.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T21:08:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:01:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\LibroService.asmx.cs",
+              "RelativeDocumentMoniker": "LibroService.asmx.cs",
+              "ToolTip": "C:\\Users\\PamelaMontenegro\\source\\repos\\CRUDLibro\\LibroService.asmx.cs",
+              "RelativeToolTip": "LibroService.asmx.cs",
+              "ViewState": "AgIAABMAAAAgmpmZmZkrwBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:59:50.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
