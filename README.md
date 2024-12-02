@@ -50,5 +50,5 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 Nota importante
 Recuerda que el servidor SOAP debe estar en funcionamiento para que el cliente pueda realizar las operaciones CRUD. Asegúrate de verificar que la URL del servicio SOAP esté accesible antes de intentar hacer peticiones desde el cliente.
 
-Si tienes algún problema con la configuración del servidor o del cliente, revisa la documentación de cada uno o abre un issue para obtener soporte adicional.
+Si tienes algún problema con la configuración del servidor o del cliente, revisa la documentación de cada uno o abre un issue para obtener soporte adicional. 
 
